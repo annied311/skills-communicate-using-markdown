@@ -1,3 +1,5 @@
 # Hello, World! This is BOYNEXTDOOR!
 
-Just added a new header!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Just added an image!
